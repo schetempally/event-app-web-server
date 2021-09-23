@@ -1,7 +1,7 @@
 {
   "name": "cnd-sample-web-server-step-1",
   "description": "CND Sample Frontend using NodeJS as webserver. Step 1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "start": "API_SERVER=http://localhost:8082 node ./src/server.js",
